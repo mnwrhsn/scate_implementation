@@ -1,0 +1,12 @@
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://github.com/ARM-software/arm-trusted-firmware.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/raspberrypi/firmware.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot.git
