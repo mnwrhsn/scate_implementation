@@ -1,4 +1,4 @@
-### Implementation of I/O-Peripheral Security for RTS
+### Implementation of SCATE (ISORC'23)
 
 #### Clone the repo (in the host machine):
 
