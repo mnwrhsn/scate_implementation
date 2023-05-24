@@ -1,5 +1,7 @@
 ### Implementation of SCATE (ISORC'23)
 
+**Paper Link: https://monowarhasan.info/papers/SCATE_ISORC23.pdf**
+
 #### Clone the repo (in the host machine):
 
 * tested on Ubuntu 16.04 LTS
